@@ -2,7 +2,7 @@
 
  
  📌 Project Overview
-This project analyzes a Gurgaon real estate dataset using Python. It includes data cleaning, exploratory data analysis (EDA), and data visualization to identify pricing trends, locality insights, and property characteristics.
+-- This project analyzes a Gurgaon real estate dataset using Python. It includes data cleaning, exploratory data analysis (EDA), and data visualization to identify pricing trends, locality insights, and property characteristics.
 
 🎯 Objectives
 - Clean and preprocess the dataset
