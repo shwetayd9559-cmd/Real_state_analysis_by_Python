@@ -4,6 +4,36 @@
  📌 Project Overview
 -- This project analyzes a Gurgaon real estate dataset using Python. It includes data cleaning, exploratory data analysis (EDA), and data visualization to identify pricing trends, locality insights, and property characteristics.
 
+ 📂 Dataset
+
+The dataset used in this project contains real estate property listings from Gurgaon, India. It includes details about residential properties such as price, area, locality, builder, property type, and other important features.
+
+ **  Dataset Features
+
+- Price
+- Area (Square Feet)
+- Rate per Sq. Ft.
+- Locality
+- Property Type
+- BHK Count
+- Property Status (Ready to Move / Under Construction)
+- RERA Approval
+- Builder/Company Name
+
+** Data Preprocessing
+
+The following preprocessing steps were performed before analysis:
+
+- Removed duplicate records
+- Removed missing values
+- Standardized column names
+- Converted price and rate per sq. ft. columns to numeric format
+- Cleaned categorical values for consistency
+
+ ** Purpose
+
+The dataset is used to perform Exploratory Data Analysis (EDA) and identify pricing patterns, locality trends, and factors that influence real estate prices in Gurgaon.
+
 🎯 Objectives
 - Clean and preprocess the dataset
 - Analyze property prices across different localities
@@ -19,36 +49,7 @@
 - Matplotlib
 - Seaborn
 
- 📂 Dataset
-
-The dataset used in this project contains real estate property listings from Gurgaon, India. It includes details about residential properties such as price, area, locality, builder, property type, and other important features.
-
- Dataset Features
-
-- Price
-- Area (Square Feet)
-- Rate per Sq. Ft.
-- Locality
-- Property Type
-- BHK Count
-- Property Status (Ready to Move / Under Construction)
-- RERA Approval
-- Builder/Company Name
-
- Data Preprocessing
-
-The following preprocessing steps were performed before analysis:
-
-- Removed duplicate records
-- Removed missing values
-- Standardized column names
-- Converted price and rate per sq. ft. columns to numeric format
-- Cleaned categorical values for consistency
-
- Purpose
-
-The dataset is used to perform Exploratory Data Analysis (EDA) and identify pricing patterns, locality trends, and factors that influence real estate prices in Gurgaon.
-
+ 
  📊 Analysis Performed
 ✔ Data Cleaning
 
