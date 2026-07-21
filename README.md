@@ -56,6 +56,7 @@ Gurgaon-Real-Estate-Data-Analysis/
  📈 Sample Visualizations
 
  -- <img width="1363" height="646" alt="area vs price" src="https://github.com/user-attachments/assets/bf3a67b6-a14c-4d62-acc9-9ae5949913a3" />
- -- [Area vs Rate per Sq. Ft.pdf](https://github.com/user-attachments/files/30215650/Area.vs.Rate.per.Sq.Ft.pdf)
+ -- <img width="1000" height="646" alt="Area vs Rate per Sq  Ft" src="https://github.com/user-attachments/assets/4decfd16-2c1d-49be-9aed-9de2c4132bda" />
+
 
 
