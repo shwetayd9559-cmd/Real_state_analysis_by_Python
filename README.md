@@ -21,7 +21,6 @@
 
  📂 Project Structure
 
-```
 Gurgaon-Real-Estate-Data-Analysis/
 │
 ├── main.py
@@ -30,7 +29,6 @@ Gurgaon-Real-Estate-Data-Analysis/
 └── images/
     ├── area_vs_price.png
     └── area_vs_rate_per_sqft.png
-```
 
  📊 Analysis Performed
 ✔ Data Cleaning
